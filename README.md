@@ -1,4 +1,4 @@
-# As 4 operaões básicas com CSharp
+# As 4 operações básicas com CSharp
 
 Repositório dedicado a prática das 4 operações matemáticas básicas com a linguagem de programação com C-Sharp
 
